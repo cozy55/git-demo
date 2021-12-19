@@ -5,6 +5,4 @@ line four
 
 line five
 line sig
-line seven
-line eight
--------------------------------------
+
