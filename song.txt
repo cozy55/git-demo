@@ -1,10 +1,2 @@
 line one
 line two
-line theww
-line four
-
-line five
-line sig
-line seven
-line eight
--------------------------------------
