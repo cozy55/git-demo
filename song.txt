@@ -5,9 +5,3 @@ line four
 
 line three
 line four
-line three
-line four
-
-line three
-line four
--------------------------
